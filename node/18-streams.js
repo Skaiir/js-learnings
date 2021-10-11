@@ -9,3 +9,5 @@ readStream.on('data', () => {
 readStream.on('error', (err) => {
     console.log(err)
 })
+
+// Would be good to learn a little more about these

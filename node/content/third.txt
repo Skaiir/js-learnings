@@ -1,1 +1,1 @@
-Here is the result : This is some content + Here is some other content
+Result: This is some content + Here is some other content

@@ -1,0 +1,24 @@
+{
+  "name": "js-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaiir/js-learnings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaiir/js-learnings/issues"
+  },
+  "homepage": "https://github.com/Skaiir/js-learnings#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
